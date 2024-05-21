@@ -1,5 +1,5 @@
 # Road-Traffic-Fatalities-Prediction-Model-through-Time-Series-Analysis
-Prediction of road casualties and evaluate the impact of transformations in Time Series Modeling and Forecasting with ARIMA using the R programming language
+1. Prediction of road casualties and evaluate the impact of transformations in Time Series Modeling and Forecasting with ARIMA using the R programming language
 
 2. Dataset: UKDriversDeath which is a pre-loaded dataset in R.
 
