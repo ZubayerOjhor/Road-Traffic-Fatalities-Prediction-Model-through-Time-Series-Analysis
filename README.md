@@ -5,8 +5,8 @@ Prediction of road casualties and evaluate the impact of transformations in Time
 
 3. In this project, several ARIMA models have been introduced. 
 
-4.Model 1: Analyzed the time plot, ACF Plot of the Dataset, then tested stationarity by Augmented Dickey-Fuller (ADF) Test and Kwiatkowski-Phillips-Schmidt-Shin
-(KPSS) Test. Then I selected the appropriate ARIMA model by evaluating the ACF & PACF plots of the stationary series.
+4. Model 1: Analyzed the time plot, ACF Plot of the Dataset, then tested stationarity by Augmented Dickey-Fuller (ADF) Test and Kwiatkowski-Phillips-Schmidt-Shin
+   (KPSS) Test. Then I selected the appropriate ARIMA model by evaluating the ACF & PACF plots of the stationary series.
 
 5. Model 2: Logarithm transformation has been done on the dataset to obtain a better ARIMA model.
    
@@ -16,4 +16,4 @@ Prediction of road casualties and evaluate the impact of transformations in Time
 
 8. Finally, I have evaluated the performance of these models based on AIC, AICc, BIC and RMSE, MAPE values and residual diagnostic results.
 
-9.At Last, using the best-performed model, I have forecasted the 10 Points Ahead.
+9. At Last, using the best-performed model, I have forecasted the 10 Points Ahead.
